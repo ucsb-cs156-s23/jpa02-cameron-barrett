@@ -2,7 +2,7 @@
 
 Repo: https://github.com/ucsb-cs156-s23/jpa02-cameron-barrett
 
-Deployed at: https://jpa02h-cameronbarrett.herokuapp.com/
+Deployed at: http://jpa02-cameron-barrett.dokku-09.cs.ucsb.edu
 
 
 # About this repo
